@@ -1,3 +1,4 @@
+# coding=utf-8
 from common.HTMLReport import HTMLTestRunner
 
 import unittest
